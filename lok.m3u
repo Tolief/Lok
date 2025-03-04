@@ -131,12 +131,17 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 ============================================================================================================================================================
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSbAEEqgvVX03-y2ex4b5hgDZaUPgDPWPC19PunHDBl3EOtqDJe7yS1QD_QElc9NMk4H69xqpIY3-PtTaIWoDrxrWKbus7puAuma8Ms09feMCgLPC0wJ2HbvPbiaZf7bAi7CQkz7SbWUTo4Osfd074uadBicD-NhhU-H6-uJR2yna2IYILhAfn4PuVLdHt/s640/PicRetouch_20250304_150340374.png",VTV
+http://103.226.232.199:9003/play/a0iu/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="TV LOKAL",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
+
+
 
 #EXTINF:-1 tvg-id="204.Kids TV" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/ww8NnxXLAJY4dNJx34AXAY8-h0OkOKmidT_QC5osuhamzHXktzFAXyIJg5tNQvwjGiGc=w240-h480" group-title="TV LOKAL",205.Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
