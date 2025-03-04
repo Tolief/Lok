@@ -102,7 +102,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 
 
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="LOKAL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png",MDTV
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="TV LOKAL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/640px-MDTV_logo.svg.png",MDTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
@@ -131,7 +131,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSbAEEqgvVX03-y2ex4b5hgDZaUPgDPWPC19PunHDBl3EOtqDJe7yS1QD_QElc9NMk4H69xqpIY3-PtTaIWoDrxrWKbus7puAuma8Ms09feMCgLPC0wJ2HbvPbiaZf7bAi7CQkz7SbWUTo4Osfd074uadBicD-NhhU-H6-uJR2yna2IYILhAfn4PuVLdHt/s640/PicRetouch_20250304_150340374.png",VTV
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSbAEEqgvVX03-y2ex4b5hgDZaUPgDPWPC19PunHDBl3EOtqDJe7yS1QD_QElc9NMk4H69xqpIY3-PtTaIWoDrxrWKbus7puAuma8Ms09feMCgLPC0wJ2HbvPbiaZf7bAi7CQkz7SbWUTo4Osfd074uadBicD-NhhU-H6-uJR2yna2IYILhAfn4PuVLdHt/s640/PicRetouch_20250304_150340374.png",VTV
 http://103.226.232.199:9003/play/a0iu/index.m3u8
 
 
@@ -334,25 +334,25 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2uHCJvuBQvxPzRx51c35c9V3WA4I6U0257oAQR5lHCGILI42SELceVAWyEal-iKq3FbXlXEIT_kGeAzP5xskfoKQs-nRaiVkQP3i7q1SbYHkK7jzpip1Pk5gGu4HeRFoGEV7Ww6kGWIQsBGo_nLHDlPzQrWQurqMRUCA4b3feSbwnIq3cOJUl5_3U1Ds/s320/PicRetouch_20250304_012025109.png",Muslim TV
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2uHCJvuBQvxPzRx51c35c9V3WA4I6U0257oAQR5lHCGILI42SELceVAWyEal-iKq3FbXlXEIT_kGeAzP5xskfoKQs-nRaiVkQP3i7q1SbYHkK7jzpip1Pk5gGu4HeRFoGEV7Ww6kGWIQsBGo_nLHDlPzQrWQurqMRUCA4b3feSbwnIq3cOJUl5_3U1Ds/s320/PicRetouch_20250304_012025109.png",Muslim TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-id="Wesal TV" tvg-name="Wesal TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMqIIUo81d9wakTF6NYbVmcJU3qhZjvXZD0yEsHIqHR9IfxtHxyqtF1h1nW1esBBCmyfFBIqKo9TQkEsYHq8dazJmYn-ovJ9wwLqYBaoJYeArPxVwmisoVtjy5xQa1fY1Fb5nO8ZnMWq4Hhc86057dIzwZGJISwHjzoTUixhkUf0Fk9tQezywB4F09c-sw/s320/PicRetouch_20250304_012041408.png" group-title="LOKAL", Wesal TV
+#EXTINF:-1 tvg-id="Wesal TV" tvg-name="Wesal TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMqIIUo81d9wakTF6NYbVmcJU3qhZjvXZD0yEsHIqHR9IfxtHxyqtF1h1nW1esBBCmyfFBIqKo9TQkEsYHq8dazJmYn-ovJ9wwLqYBaoJYeArPxVwmisoVtjy5xQa1fY1Fb5nO8ZnMWq4Hhc86057dIzwZGJISwHjzoTUixhkUf0Fk9tQezywB4F09c-sw/s320/PicRetouch_20250304_012041408.png" group-title="TV LOKAL", Wesal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-id="Ashiil TV" tvg-name="Ashiil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6v0WGgNNoXcAgDlM1jXQavkw7bJA-joDpZyeCv40gkRyco-72tY-1ZbssochxH50E2wHBIoH1p8DD4I6xueHtEkMHxoM44Q16QY0E3JoyhcmVPyG6cVGjpuGhNrs-eXdXtMWH3wmIJ24fxcB4iJZl0gSKCspupYAW4j6v3gwpxu_ujcyF__peHfmyCFe/s320/PicRetouch_20250304_012057148.png" group-title="LOKAL",Ashill TV
+#EXTINF:-1 tvg-id="Ashiil TV" tvg-name="Ashiil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6v0WGgNNoXcAgDlM1jXQavkw7bJA-joDpZyeCv40gkRyco-72tY-1ZbssochxH50E2wHBIoH1p8DD4I6xueHtEkMHxoM44Q16QY0E3JoyhcmVPyG6cVGjpuGhNrs-eXdXtMWH3wmIJ24fxcB4iJZl0gSKCspupYAW4j6v3gwpxu_ujcyF__peHfmyCFe/s320/PicRetouch_20250304_012057148.png" group-title="TV LOKAL",Ashill TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-id="Surau TV" tvg-name="Surau TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOQpTnrcrjYmRps_oT3Ezh8LBWgG0_MRXZlrUjx4hefCQtb9X4EaQKAzrC10NiWyR6nOGxN7ol3XIJiPYaNJz4z7uzVoYIEwEIEv0afgzp2VMWp8L8zQIxqbYqzySPdyq7r1ZyoJGghe_k_DVG5-ZBXvHexnj5oJcnGd0BnxWNbUJT0xJdPrdc8ZaYrexw/s320/PicRetouch_20250304_012154774.png" group-title="LOKAL", Surau TV
+#EXTINF:-1 tvg-id="Surau TV" tvg-name="Surau TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOQpTnrcrjYmRps_oT3Ezh8LBWgG0_MRXZlrUjx4hefCQtb9X4EaQKAzrC10NiWyR6nOGxN7ol3XIJiPYaNJz4z7uzVoYIEwEIEv0afgzp2VMWp8L8zQIxqbYqzySPdyq7r1ZyoJGghe_k_DVG5-ZBXvHexnj5oJcnGd0BnxWNbUJT0xJdPrdc8ZaYrexw/s320/PicRetouch_20250304_012154774.png" group-title="TV LOKAL", Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgritkCpEXHqYPFKL7xrQlPoWjgPROtMC0BJG7QLy5ry1b0eu0yJUB-ls6T697hmDATpUE0vYSP7Ddk1xAZMdvndOm7JAdjqG44HwQv4w3iNLxoNF2hBvIfR4nejvSl2nO4HQtm7v3BUcssJO3cQGKcwBm7AduL0o3GOCFA6GEDTwYmNPoD0wO85lHN5b4Z/s320/PicRetouch_20250304_012210525.png",Tawaf TV
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgritkCpEXHqYPFKL7xrQlPoWjgPROtMC0BJG7QLy5ry1b0eu0yJUB-ls6T697hmDATpUE0vYSP7Ddk1xAZMdvndOm7JAdjqG44HwQv4w3iNLxoNF2hBvIfR4nejvSl2nO4HQtm7v3BUcssJO3cQGKcwBm7AduL0o3GOCFA6GEDTwYmNPoD0wO85lHN5b4Z/s320/PicRetouch_20250304_012210525.png",Tawaf TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 
@@ -384,14 +384,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web
 https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/AKTV_png" group-title="LOKAL",AKTV
+#EXTINF:-1 tvg-logo="https://rebrand.ly/AKTV_png" group-title="TV LOKAL",AKTV
 https://e.siar.us/live/aktv.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/0fYZFNf/jitv.png",JITV Jogja
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/0fYZFNf/jitv.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 group-title="LOKAL" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/x6b4Lxk/dhohotv.png",Dhoho TV- Kediri
+#EXTINF:-1 group-title="TV LOKAL" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/x6b4Lxk/dhohotv.png",Dhoho TV- Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 
