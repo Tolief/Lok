@@ -359,11 +359,7 @@ https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.
 
 ============================================================================================================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 
 ============================================================================================================================================================================================================================================================================
 
@@ -382,11 +378,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 ============================================================================================================================================================================================================================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2uHCJvuBQvxPzRx51c35c9V3WA4I6U0257oAQR5lHCGILI42SELceVAWyEal-iKq3FbXlXEIT_kGeAzP5xskfoKQs-nRaiVkQP3i7q1SbYHkK7jzpip1Pk5gGu4HeRFoGEV7Ww6kGWIQsBGo_nLHDlPzQrWQurqMRUCA4b3feSbwnIq3cOJUl5_3U1Ds/s320/PicRetouch_20250304_012025109.png",Muslim TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
 
 ============================================================================================================================================================================================================================================================================
 
@@ -402,11 +394,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 ============================================================================================================================================================================================================================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgritkCpEXHqYPFKL7xrQlPoWjgPROtMC0BJG7QLy5ry1b0eu0yJUB-ls6T697hmDATpUE0vYSP7Ddk1xAZMdvndOm7JAdjqG44HwQv4w3iNLxoNF2hBvIfR4nejvSl2nO4HQtm7v3BUcssJO3cQGKcwBm7AduL0o3GOCFA6GEDTwYmNPoD0wO85lHN5b4Z/s320/PicRetouch_20250304_012210525.png",Tawaf TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
 
 ============================================================================================================================================================
 
