@@ -451,8 +451,13 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 ============================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="TV LOKAL",Sampit TV
-https://e.siar.us/live/sampit-tv.m3
+#EXTINF:0 tvg-country="ID" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="TV LOKAL",LingkarTV
+https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
+
+============================================================================================================================================================================================================================================================================
+
+#EXTINF:-1 tvg-name="jawaposTv"  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/fv1mt5p/jawapos.png" group-title="TV LOKAL",Jawapos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 ============================================================================================================================================================================================================================================================================
 
