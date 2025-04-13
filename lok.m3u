@@ -31,9 +31,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV LOKAL",Indosiar  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+http://tvking.xyz:8080/wafdi38/wafdi38/6982
 
 ===TRANS TV=========================================================================================================================================================================================================================================================================
 
@@ -55,10 +53,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="TV LOKAL",RCTI HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-#KODIPROP:inputstream.adaptive.manifest_type=drm
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=com.widevine.alpha&license_key=https://sangkatv.xyz/kode/vision/media.php?id=1&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|referrer=https://visionplus.id/
+http://tvking.xyz:8080/wafdi38/wafdi38/5144
 ===SCTV=========================================================================================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TV LOKAL" ,SCTV
