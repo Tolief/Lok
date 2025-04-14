@@ -11,17 +11,102 @@
 
 
 
-============================================================================================================================================================
 
-// TV LOKAL
 
-============================================================================================================================================================
+===TIMNAS===================================================================================================================================================================================================
 
-#EXTINF:-1 group-title="LIVE TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjChPLaDZiLIwHQyFFtt6ssdTtiMCtbYDZhGDCLOWSbPb_8a6WbfmHrxa&s=10",RCTI
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjChPLaDZiLIwHQyFFtt6ssdTtiMCtbYDZhGDCLOWSbPb_8a6WbfmHrxa&s=10",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0MzY4ODYyOCwiaWF0IjoxNzQzNjg4MDI4LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMjdlNDRlZDQtYjczNS00NGVkLWI4ZWUtNDQ2OTUxYWY3YjAwIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTEzIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.r1mABBGR5GE49-w04s9-yUDYUWqrAFp2T9nQyvNhH12VR43K0YFcOHUzlF8TN5L9nKHMX8vxpgfFhCEHAMQxmg
 https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/400px-Sportstars_2.png" group-title="TIMNAS",SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
+
+
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",RCTI HD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
+
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
+#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
+#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
+
+#EXTINF:-1 group-title="live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", LIVA
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+
+#EXTINF:-1 group-title="live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", LIVE
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+
+
+
+===LIGA KONOHA============================================================================================================================================================================================================
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTM3U8
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="1" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="LIVE LIGA KONOHA", INDOSIAR TV
+#EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
+https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
+
+
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 1 aflax
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
+
+
+
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 6 xtv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 7 xtv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
+
+
+
+
+
+
+===VOLLY============================================================================================================================================================================================================
+
+#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 2 xtv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="OLAHRAGA LOKAL",MOJI Proliga Volley
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
 
 
 
@@ -116,108 +201,3 @@ http://tvking.xyz:8080/wafdi38/wafdi38/6996
 http://tvking.xyz:8080/wafdi38/wafdi38/6997
 #EXTINF:-1 tvg-id="Star Movies HD ARB" tvg-name="Star Movies FHD" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="FHD ",Star Movies FHD
 http://tvking.xyz:8080/wafdi38/wafdi38/7025
-
-
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 1 aflax
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
-
-
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 4 oplex
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://opplex.tv:8080/live/starmpk/mpk1234/350972.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 5 vipomal
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 6 xtv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="BRI LIGA 1", Live 7 xtv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="VOLLY", MOJI PROLIGA king aka
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
-
-
-
-#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 2 xtv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
-
-
-
-#EXTINF:-1 tvg-name="VOLLY" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/VOLLY.jpeg" group-title="VOLLY", Live 5 king aka
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://mag.king-4k.cc:80/live/00447341550145nigel2/45C411/1505856.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="INDONESIA HD",SCTV (OS7+)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",RCTI HD
-https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
-
-
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTM3U8
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-10.0 tvg-id="1" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="LIVE LIGA KONOHA", INDOSIAR TV
-#EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
-https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="OLAHRAGA LOKAL",MOJI Proliga Volley
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
-
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
-#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
-
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI FHD (R+)
-#EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
-
-#EXTINF:-1 group-title="live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", LIVA
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
-
-#EXTINF:-1 group-title="live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", LIVE
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
-
