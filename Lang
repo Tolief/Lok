@@ -213,11 +213,11 @@ https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://bbtv77.tipiku.workers.dev/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png", LIVA
+#EXTINF:-1 group-title="live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", LIVA
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png", LIVE
+#EXTINF:-1 group-title="live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", LIVE
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
 
