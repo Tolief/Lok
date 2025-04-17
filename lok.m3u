@@ -452,7 +452,7 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0MzY4ODYyOCwiaWF0IjoxNzQzNjg4MDI4LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMjdlNDRlZDQtYjczNS00NGVkLWI4ZWUtNDQ2OTUxYWY3YjAwIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTEzIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.r1mABBGR5GE49-w04s9-yUDYUWqrAFp2T9nQyvNhH12VR43K0YFcOHUzlF8TN5L9nKHMX8vxpgfFhCEHAMQxmg
 https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TV LOKAL",Sportstars 2 HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
