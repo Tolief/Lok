@@ -35,7 +35,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -45,7 +45,7 @@ http://tvking.xyz:8080/wafdi38/wafdi38/5117
 #EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR LIVE
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
 
 
 ===TRANS TV=========================================================================================================================================================================================================================================================================
@@ -446,13 +446,13 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 ===TIMNAS=========================================================================================================================================================================================================================================================================
 
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjChPLaDZiLIwHQyFFtt6ssdTtiMCtbYDZhGDCLOWSbPb_8a6WbfmHrxa&s=10",RCTI
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjChPLaDZiLIwHQyFFtt6ssdTtiMCtbYDZhGDCLOWSbPb_8a6WbfmHrxa&s=10",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0MzY4ODYyOCwiaWF0IjoxNzQzNjg4MDI4LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMjdlNDRlZDQtYjczNS00NGVkLWI4ZWUtNDQ2OTUxYWY3YjAwIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTEzIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.r1mABBGR5GE49-w04s9-yUDYUWqrAFp2T9nQyvNhH12VR43K0YFcOHUzlF8TN5L9nKHMX8vxpgfFhCEHAMQxmg
 https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD 
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TV LOKAL",Sportstars 2 HD 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
@@ -460,13 +460,23 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 ===LIGA 1=========================================================================================================================================================================================================================================================================
 
-#EXTINF:-1 group-title="LIGA 1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", SLEMAN VS DEWA
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="TV LOKAL", LIGA BRI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/honghainhisd1/playlist.m3u8
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8|referrer=https://playerlive.xyz/
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/62/3e/10623e4a-e4f6-61aa-ce2c-3167c7c9a7cb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png", SURABAYA VS MADURA
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m205nd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="TV LOKAL", LIGA BRI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
+https://bf.jllivese.com/live/322698_hd01.m3u8?txSecret=a02c9b5e3febd985d05ecd0c94e84488&txTime=6804e27a|referrer=https://jlbfpc.jlbfyh.com/
 
 ===VOLLY=========================================================================================================================================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="VOLLEY",MOJI Proliga Volley
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="TV LOKAL",MOJI Proliga Volley
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
