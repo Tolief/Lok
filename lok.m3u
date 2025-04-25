@@ -354,6 +354,14 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 
 ============================================================================================================================================================
 
+
+#EXTINF:-1 group-title="TV LOKAL" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png",Sunnah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
+
+
+============================================================================================================================================================================================================================================================================
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -361,12 +369,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="TV LOKAL" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-============================================================================================================================================================================================================================================================================
-
-#EXTINF:-1 group-title="TV LOKAL" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png",Sunnah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
 
 ============================================================================================================================================================================================================================================================================
 
@@ -424,7 +426,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="TV LOKAL",Jowo Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7OLrzaUgeIlQVCrYQjiomER7cPBh7kkTAg&usqp=CAU" group-title="TV LOKAL", CHANNEL JOWO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
@@ -456,7 +458,7 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc0MzY4ODYyOCwiaWF0IjoxNzQzNjg4MDI4LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiMjdlNDRlZDQtYjczNS00NGVkLWI4ZWUtNDQ2OTUxYWY3YjAwIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTEzIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.r1mABBGR5GE49-w04s9-yUDYUWqrAFp2T9nQyvNhH12VR43K0YFcOHUzlF8TN5L9nKHMX8vxpgfFhCEHAMQxmg
-https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
+#https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TV LOKAL",Sportstars 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=wwidevine
@@ -472,6 +474,15 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 http://tvking.xyz:8080/wafdi38/wafdi38/5117
 
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR LIVE Q
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
+
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR TV K FHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://tvking.xyz:8080/wafdi38/wafdi38/6982
 
 
 #EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR LIVE Q
@@ -479,12 +490,8 @@ http://tvking.xyz:8080/wafdi38/wafdi38/5117
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
 
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://i.imgur.com/V3ZPEVo.jpg" group-title="TV LOKAL", BRI LIGA 1-DT4
-#EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://su00yous2-cf.tikballaa.com/auth%3D2933d6de45efd3ed733b181b3f658a635dba4b280bc2c0ec018e61448f34b4836fa347bdf79ab24727d0bdfabdb5dd925777536f245ce2e32ce88820a796bc4db7d53d81612e3bb70b7745197ac831f4bd9401f1f25af99fd7dc36f317fd6e8bfbc5b248a7192cf827fc978144f6cb8734f7dcf6b2b8a8a81b9e375166d95a21c26305071f88484727e96db17bb97243e93337f7be1f26e60d5bbbc205fcfcd0e51f41a3b21cd484759ed78a9e10de3167a87e94af16f82947ece6f6a6d1d5fcf951a9284ac7c357f36b577f2e4cebeb1805c3afdbf77bd00115ccb7147f0882de0282fd91f47d628ae7ae59151b7002%26cid%3DF9NuymaMwOrKY37jyAHAb250411%26_v%3D2%26_r%3D5w4xFO%26_vis%3D8c22c81dc20f6ac35590307bd6f27a918917c5c9405440ef22fdf79fc765c17c%26_vvs%3D9015e224a9657dd42a370dc2d716677151d46beb0668675fe1745ab2245210f8/transcode/c343611_480p.m3u8
-
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV LOKAL",INDOSIAR ZO
+https://zozotv.xyz:443/live/usez37/zxy921/45.ts
 
 
 ===VOLLY=========================================================================================================================================================================================================================================================================
