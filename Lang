@@ -27,6 +27,14 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
 
 ===LIGA KONOHA============================================================================================================================================================================================================
 
+
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="LIGA KONOHA",LIGA BRI 1 Vidio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624
+
+
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTM3U8
