@@ -59,6 +59,24 @@ http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIGA KONOHA", INDOSIAR TV K
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://tvking.xyz:8080/wanz2022/asdf2022/5117
+
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIGA KONOHA", INDOSIAR TV K 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://tvking.xyz:8080/wafdi38/wafdi38/5117
+
+#EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIGA KONOHA", INDOSIAR TV K FHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://tvking.xyz:8080/wafdi38/wafdi38/6982
+
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="LIGA KONOHA",INDOSIAR ZOZO
+https://zozotv.xyz:443/live/usez37/zxy921/45.ts
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="LIGA KONOHA" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar Q
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -69,9 +87,10 @@ https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",QT
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",BRI LIGA 1 QT
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
+
 
 
 ===VOLLY============================================================================================================================================================================================================
