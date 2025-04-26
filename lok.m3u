@@ -469,6 +469,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 ===LIGA 1=========================================================================================================================================================================================================================================================================
 
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="TV LOKAL",LIGA BRI 1 Vidio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624
+
+
 #EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR TV K
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -490,7 +497,7 @@ https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
 
 #EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR LIVE 83.142
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV LOKAL",INDOSIAR ZO
 #https://zozotv.xyz:443/live/usez37/zxy921/45.ts
