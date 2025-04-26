@@ -47,6 +47,8 @@ http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
+
+
 #EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="LIGA KONOHA", Live 7 xtv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -56,6 +58,16 @@ http://xtv.ooo:8080/live/jk8010801099/jk8010801099/350972.ts
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png" group-title="LIGA KONOHA",INDOSIAR 83.172
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="LIGA KONOHA" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar Q
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",BIAK VS BARITO
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
 
 
 
@@ -68,19 +80,17 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
+#EXTINF:-1 group-title="VOLLY" tvg-logo="https://iili.io/30pj83g.png",PROLIGA
+http://opplex.tv:8080/live/mother/mother/350997.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="OLAHRAGA LOKAL",MOJI Proliga Volley
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/39ciYfS.png" group-title="VOLLY",MOJI Proliga Volley
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
+
 
 
 
