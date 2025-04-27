@@ -287,10 +287,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="TEST",MNC TV CU
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
 
 #EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://static.mncnow.id/images/channel/e8d2f9ce/be44_r32.jpg" group-title="TEST", MNC TV HD AV-CH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -359,10 +356,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e82
 
 ===GTV=================================================================================================================================================================================================
 
-#EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="TEST", GTV HD SW
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="TEST", GTV
 #EXTVLCOPT:http-user-agent=android-R+
