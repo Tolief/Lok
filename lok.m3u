@@ -586,11 +586,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV LOKAL",INDOSIAR ZO
 #https://zozotv.xyz:443/live/usez37/zxy921/45.ts
 
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴Live Event",LIGA BRI 3
-#EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://tnt1-cf.boblcfwudz421.com/auth%3D59ae1c22da81e3d57ce840095f0ac2fb4f36b306baeed25a88125eb2794b4fb6fdd0e2f36b2e3b61dff52b9b0b83edba647684c10a3fe6ece44aeb8040ac4724da7fa4c31d8b5425650b76aaa6d659ae87e5462993a268ecf06dddf94467482088fdf294524cb6b2434f9b9db02f8cfa3fccfe3ee3a8f137dab9b29ee0c4b4854e4ee76c315481890a460efcb3a298424bf37f503c86f9b0eee75c0a0daa9d32ef5fa046fc7ad9056d7c743c44886bc4bd05f1116f229d564d2beac5c8cecf72%26cid%3D9r1dRiRtp-L0JBjKV7pxy250418%26_v%3D2%26_r%3DiXoUQw%26_vis%3D65c5f6b9eec2b26e216498b17d64cf0e849ba309779ced644c17985324641106%26_vvs%3D61911198f01b51c4933a527b45817fea9eac1cf34800e262285676e5a25567c3/transcode/c345622_480p.m3u8
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTM3U8
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-id="1" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="TV LOKAL", INDOSIAR TV BIANET
+#EXTVLCOPT:http-user-agent=8vpgu5Pn76+ub1oG9cLK7LjsZd4J38SWZkyS3+yMDGc=
+https://my.bianet.es/Folysiliti/Indosiar-HD.m3u8
+
+
 
 ===VOLLY=========================================================================================================================================================================================================================================================================
 
