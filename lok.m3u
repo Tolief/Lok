@@ -210,7 +210,7 @@ http://103.226.232.199:9003/play/a0iu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="TV LOKAL",Mentari TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://10.11.253.253:8999/stream=14.ts
+http://10.11.253.253:8999/stream=4.ts
 
 ===HOREE=========================================================================================================================================================================================================================================================================
 
@@ -225,7 +225,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6NXNR4F/mykidz.png" group-title="TV LOKAL",MYKIDS
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="TV LOKAL" tvg-id="NickJr.id" , Nickelodeon Junior
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids" tvg-id="NickJr.id" , Nickelodeon Junior
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
@@ -574,7 +574,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
 #EXTINF:-1 tvg-id="" group-title="TV LOKAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", Sportstars 3 D2
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 xui-id="2" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="TV LOKAL",INDOSIAR FHD DS 🇮🇩
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -582,7 +582,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350972
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#http://xtv.ooo:8080/live/DaxeshMPT/454591/350972.ts
+http://xtv.ooo:8080/live/DaxeshMPT/454591/350972.ts
 
 
 
@@ -593,20 +593,20 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",Bola
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
-#https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
+https://qtcdn.livestreameuro.live/live/phusd1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TV LOKAL" ,SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://10.11.253.253:8999/stream=11.ts
+http://10.11.253.253:8999/stream=1.ts
 
 #EXTINF:0 tvg-id="INDOSIAR" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="TV LOKAL", INDOSIAR M
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://10.11.253.253:8999/stream=12.ts
+http://10.11.253.253:8999/stream=2.ts
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="TV LOKAL", MOJI HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://10.11.253.253:8999/stream=13.ts
+http://10.11.253.253:8999/stream=3.ts
 
 ===VOLLY=========================================================================================================================================================================================================================================================================
 
