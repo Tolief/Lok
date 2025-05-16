@@ -290,8 +290,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 ===BTV=========================================================================================================================================================
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="TV LOKAL",BTV
-https://raw.githubusercontent.com/Tolief/Lok/refs/heads/main/M/btv.m3u8
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="TV LOKAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/HXrk8wY/btv.png", BTV
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
 
 ===CNN INDONESIA=========================================================================================================================================================================================================================================================================
 
