@@ -291,7 +291,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 ===BTV=========================================================================================================================================================
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="TV LOKAL",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://raw.githubusercontent.com/Tolief/Lok/refs/heads/main/M/btv.m3u8
 
 ===CNN INDONESIA=========================================================================================================================================================================================================================================================================
 
