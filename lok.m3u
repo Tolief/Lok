@@ -64,11 +64,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 2].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="TV LOKAL",MNC TV HD DSG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV LOKAL",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV LOKAL",MNCTV D2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -292,7 +292,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="TV LOKAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/HXrk8wY/btv.png", BTV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 
 ===CNN INDONESIA=========================================================================================================================================================================================================================================================================
 
@@ -488,6 +488,10 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="TV LOKAL",LingkarTV
+https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
+
 ============================================================================================================================================================
 
 // Lokal TV
@@ -505,9 +509,9 @@ https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp
 
 
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="TV LOKAL",HANACARAKA TV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
 
 ============================================================================================================================================================
@@ -517,8 +521,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 ============================================================================================================================================================
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="TV LOKAL",LingkarTV
-https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
+
 
 ============================================================================================================================================================================================================================================================================
 
@@ -559,12 +562,7 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #https://liveplus.rctiplus.id/RTMP-IN.m3u8|Referer=https://www.rctiplus.com
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TV LOKAL",Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 
 
 ===LIGA 1=========================================================================================================================================================================================================================================================================
