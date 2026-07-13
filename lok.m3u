@@ -63,7 +63,7 @@ http://103.165.157.124:11054/hls/14/14.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
 
@@ -75,7 +75,7 @@ http://103.165.157.124:11054/hls/14/14.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=12000
 #EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
-http://103.165.157.124:11054/hls/2/2.m3u8
+#http://103.165.157.124:11054/hls/2/2.m3u8
 
 
 ===TRANS TV======================================================================================================================================================
