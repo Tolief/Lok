@@ -1,0 +1,131 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
+
+
+
+
+===LIVE===========================================================================================================================================================================================
+
+
+
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/tvri.png?raw=true" group-title="TV LOKAL",TVRI
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/19/19.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/2.antv.png?raw=true" group-title="TV LOKAL",ANTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/14/14.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="TV LOKAL" tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/3.indosiar.png?raw=true",INDOSIAR
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/2/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/4.TransTv.png?raw=true" group-title="TV LOKAL",TRANSTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/10/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/5.mnctv.png?raw=true" group-title="TV LOKAL",MNCTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/7/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/6.rcti.png?raw=true" group-title="TV LOKAL",RCTI
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/6/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/7.sctv.png?raw=true" group-title="TV LOKAL" ,SCTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/3/3.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/8.gtv.png?raw=true" group-title="TV LOKAL", GTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/8/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/9.tv_one.png?raw=true" group-title="TV LOKAL",TVONE
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/16/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/10.trans%207.png?raw=true" group-title="TV LOKAL",TRANS7
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/11/11.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/TVRI%20SPORT.jpg?raw=true" group-title="TV LOKAL" ,TVRI SPORT
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/20/20.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/moji.png?raw=true" group-title="TV LOKAL", MOJI
+#EXTVLCOPT:http-reconnect=t
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/4/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/SINPOTV.jpg?raw=true" group-title="TV LOKAL" ,SINPO TV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/18/18.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/inews.png?raw=true" group-title="TV LOKAL",I NEWS TV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/9/9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/cnn_indonesia.png?raw=true" group-title="TV LOKAL",CNN  Indonesia
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/12/12.m3u8
+
+#EXTINF:-1 tvg-id="MTATV.id" group-title="TV LOKAL" tvg-logo="https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png",MTATV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/13/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/vtv.jpg?raw=true" group-title="TV LOKAL",VTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/15/15.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Tolief/Lok/blob/main/logo/mdtv.png?raw=true" group-title="TV LOKAL" , NET TV/MDTV
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=12000
+#EXTVLCOPT:http-user-agent=OTT-NAV/1.6.8
+http://10.11.253.240:8060/hls/17/17.m3u8
+
+
+
+
+
+
+
